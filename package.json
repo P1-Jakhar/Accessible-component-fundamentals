@@ -1,0 +1,12 @@
+{
+  "name": "accessible-component-fundamentals",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive accessible components built from scratch in React + TypeScript (Modal, Tabs, Disclosure) conforming to W3C ARIA APG, compared with shadcn/ui.",
+  "scripts": {
+    "dev": "npm --prefix playground run dev",
+    "build": "npm --prefix playground run build",
+    "lint": "npm --prefix playground run lint",
+    "preview": "npm --prefix playground run preview"
+  }
+}
